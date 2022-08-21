@@ -1,16 +1,15 @@
-### Hi there 👋
+# BestHentai0 🔥
+I'm discord bot maker
 
-<!--
-**BestHentai0/BestHentai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For inquiries, please DM to STAY#1086
 
-Here are some ideas to get you started:
+# Language
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+<img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=BestHentai0&show_icons=true&theme=radical">
